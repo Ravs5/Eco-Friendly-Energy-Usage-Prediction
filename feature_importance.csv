@@ -1,0 +1,13 @@
+,0
+Temperature,0.4711933
+HVACUsage,0.15204011
+Occupancy,0.07740051
+LightingUsage,0.04639259
+RenewableEnergy,0.04597707
+Humidity,0.03629905
+Hour,0.033353087
+SquareFootage,0.032562587
+IsWeekend,0.031375464
+Holiday,0.031087806
+DayOfWeek,0.026913762
+Month,0.015404649
